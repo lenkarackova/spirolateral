@@ -5,6 +5,8 @@
 #include <cmath>
 #include <QLine>
 #include <QPolygonF>
+#include <QRegExp>
+#include <QStringList>
 
 class Spirolateral
 {
